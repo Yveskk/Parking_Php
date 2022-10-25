@@ -1,0 +1,35 @@
+Free Download Source Code "Parking Vehicle Management"
+
+Comment configurer ce projet
+
+Étape 1. Télécharger xamp
+
+Étape 2. Éditeur de texte notepad++ ou Sublime
+
+Étape 3. Télécharger le fichier zip/Télécharger winrar
+
+Étape 4. Extrayez le fichier et copiez "parkings"
+
+" dossier
+
+Étape 5. Collez dans le répertoire racine/ où vous installez le disque local xampp C : lecteur D : lecteur E : coller : pour xampp/htdocs,
+
+Étape 6. Ouvrez PHPMyAdmin http://localhost/phpmyadmin
+
+Étape 7. Créer le nom de la base de données parking_db
+
+Étape 8. Importer le fichier parking_db.sql fourni dans le package zip dans le dossier de fichiers SQL
+
+Étape 9. Exécutez le script http://localhost/ parkings
+
+
+Étape 10 . Mot de passe : nom d'utilisateur : admin / mot de passe : admin123
+
+Admin
+user: admin
+pass: admin123
+
+create your own user
+
+****** freetemplatezone.com ******
+creer par softwarex
